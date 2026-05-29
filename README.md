@@ -1,6 +1,6 @@
 # r3vpwnx.github.io
 
-Personal website of **Dilanka Kaushal Hewage (r0tn3x)** - Red Team Operator, Security Researcher, CTF Player
+Personal website of **Dilanka Kaushal Hewage (r3vpwnx)** - Red Team Operator, Security Researcher, CTF Player
 
 This repository contains the source code for my personal website showcasing my work in offensive security, red team operations, and cybersecurity research.
 
