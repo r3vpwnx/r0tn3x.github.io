@@ -42,6 +42,6 @@ The cybersecurity landscape never stops evolving, so neither do I. I'm constantl
 ## Chat with me
 
 Want to talk security, CTFs, or just chat? Feel free to reach out via:
-- Email: r0tn3x@gmail.com
-- Twitter: [@r0tn3x](https://twitter.com/r0tn3x)
-- GitHub: [r0tn3x](https://github.com/r0tn3x)
+- Email: r3vpwnx@gmail.com
+- Twitter: [@r3vpwnx](https://twitter.com/r3vpwnx)
+- GitHub: [r3vpwnx](https://github.com/r3vpwnx)
