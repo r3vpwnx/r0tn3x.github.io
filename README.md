@@ -1,4 +1,4 @@
-# r0tn3x.github.io
+# r3vpwnx.github.io
 
 Personal website of **Dilanka Kaushal Hewage (r0tn3x)** - Red Team Operator, Security Researcher, CTF Player
 
@@ -45,7 +45,7 @@ Built with [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.gith
 
 ## License
 
-© 2025 Dilanka Kaushal Hewage (r0tn3x). All rights reserved.
+© 2026 Dilanka Kaushal Hewage (r3vpwnx). All rights reserved.
 
 ## Contact
 
